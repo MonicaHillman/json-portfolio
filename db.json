@@ -1,5 +1,5 @@
 {
-  "Artigos": [
+  "artigos": [
     {
       "titulo": "Qual o tipo de um React Hook?",
       "link": "https://www.alura.com.br/artigos/qual-tipo-react-hook"
@@ -29,7 +29,7 @@
       "link": "https://www.alura.com.br/artigos/sublime-text-um-dos-melhores-editores-de-codigo"
     }
   ],
-  "Vídeos": [
+  "videos": [
     {
       "titulo": "Conhecendo a linguagem Go | Hipsters.Talks",
       "link": "https://www.youtube.com/watch?v=y8FeZMv37WU"
@@ -59,7 +59,7 @@
       "link": "https://www.youtube.com/watch?v=3hc27iASLn0"
     }
   ],
-  "Cursos": [
+  "cursos": [
     {
       "titulo": "ChatGPT e JavaScript: construa o jogo pong",
       "link": "https://cursos.alura.com.br/course/chatgpt-javascript-construa-jogo-pong"
